@@ -4,18 +4,18 @@
 This project focuses on computational modeling of cellulose crystal structures with graphene layers. It includes scripts for rotating graphene, building and aligning cellulose crystals, and combining cellulose with graphene layers.
 
 ## Table of Contents
-1. Files
-2. Dependencies
-3. Installation
-4. Usage
-   * Rotate Graphene
-   * Build Crystal
-   * Align Crystal
-   * Add Graphenes
-5. Output
-6. Modeling Process
-7. Notes
-8. License
+1. [Files](#files)
+2. [Dependencies](#dependencies)
+3. [Installation](#installation)
+4. [Usage](#usage)
+   - [Rotate Graphene](#rotate-graphene)
+   - [Build Crystal](#build-crystal)
+   - [Align Crystal](#align-crystal)
+   - [Add Graphenes](#add-graphenes)
+5. [Output](#output)
+6. [Modeling Process](#modeling-process)
+7. [Notes](#notes)
+8. [License](#license)
 
 ## Files
 * **Main Scripts**:
