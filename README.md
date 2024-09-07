@@ -39,6 +39,7 @@ This project focuses on computational modeling of cellulose crystal structures w
 ```
 git clone https://github.com/aakashxtha/Cellulose_Modeling.git
 cd Cellulose_Modeling
+mkdir Outputs
 ```
 
 2. Ensure NumPy is installed in your Python environment:
